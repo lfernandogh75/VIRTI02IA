@@ -11,5 +11,8 @@ streamlit run app.py
 
 git --version
 git init
-
+git add .  
+git commit -m "rede neuronal conjunto de datos MNIST para dígitos del 0 al 9"
+git remote add origin https://github.com/lfernandogh75/VIRTI02IA.git
+git push -u origin master  
 deactivate
